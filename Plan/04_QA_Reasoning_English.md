@@ -4,8 +4,8 @@
 ---
 
 > **Note:** This file covers the three core sections tested in **every** target examination (IBPS PO, Clerk, RRB, Karnataka Bank).  
-> Computer Awareness → See [05_Computer_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/05_Computer_Awareness.md)  
-> General & Banking Awareness → See [06_GA_Banking_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/06_GA_Banking_Awareness.md)
+> Computer Awareness → See [05_Computer_Awareness.md](05_Computer_Awareness.md)  
+> General & Banking Awareness → See [06_GA_Banking_Awareness.md](06_GA_Banking_Awareness.md)
 
 ---
 
@@ -332,23 +332,25 @@ Vocabulary (10 min) + Question Practice (20 min)
 ### Writing Practice — IBPS PO Mains (Phase 3 Onwards)
 
 **Essay Topics to Practice:**
-- Digital Banking and Financial Inclusion
-- Non-Performing Assets (NPAs) in Indian Banks
-- Role of RBI in the Indian Economy
-- Cryptocurrency and its regulation
-- Women Empowerment and Banking Access
-- Green Banking / Sustainable Finance
-- MSME Lending Challenges
+- Digital Banking & UPI Revolution in India
+- Non-Performing Assets (NPAs) & IBC Framework
+- Role of RBI in Controlling Inflation
+- Climate Change & Green Banking
+- Financial Literacy & Inclusion in Rural India
+- Artificial Intelligence in Financial Services
 
-**Letter Writing Types:**
-- Formal letter to bank manager (complaint, request)
-- Letter to RBI regarding banking issues
-- Business communication letters
+#### Detailed Essay Structure (200–250 words)
+1. **Title/Header:** Short & centered title.
+2. **Introduction (40–50 words):** Define key term/topic and state the central thesis.
+3. **Body Paragraph 1 — Advantages/Current Status (70–80 words):** Provide stats, government schemes, or economic facts.
+4. **Body Paragraph 2 — Challenges/Concerns (50–60 words):** Present obstacles, security risks, or implementation gaps.
+5. **Conclusion (30–40 words):** Forward-looking summary and solution-oriented ending.
 
-**Format:**
-- Introduction (3–4 lines) → Body (3–4 paragraphs) → Conclusion (2–3 lines)
-- Word count: 200–250 words for both essays and letters
-- **Avoid:** Informal language, slang, contractions (don't → do not)
+#### Letter Writing Breakdown (150 words)
+- **Formal Letter Formats:** Letter to Bank Manager (ATM card issue, loan inquiry, educational loan request), Letter to Newspaper Editor (on cybersecurity awareness), Letter to RBI Ombudsman (banking service grievance).
+- **Structure:** Sender Address → Date → Receiver Address → Subject Line → Salutation (Sir/Madam) → Body (3 short paragraphs) → Sign-off (Yours faithfully).
+
+> ⚠️ **Evaluation Rules:** Descriptive papers are evaluated via automated software (grammar, spelling, keyword density, word count). Keep sentence structures simple, avoid typos, and never use contractions (*don't → do not*).
 
 ---
 
@@ -368,5 +370,5 @@ Many topics across these three subjects reinforce each other:
 
 ---
 
-*Next: See [05_Computer_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/05_Computer_Awareness.md) for Computer Knowledge strategy.*  
-*See [06_GA_Banking_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/06_GA_Banking_Awareness.md) for General & Banking Awareness strategy.*
+*Next: See [05_Computer_Awareness.md](05_Computer_Awareness.md) for Computer Knowledge strategy.*  
+*See [06_GA_Banking_Awareness.md](06_GA_Banking_Awareness.md) for General & Banking Awareness strategy.*

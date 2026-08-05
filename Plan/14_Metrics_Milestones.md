@@ -300,4 +300,4 @@ These are moments worth acknowledging:
 
 ---
 
-*Next: See [15_Common_Mistakes.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/15_Common_Mistakes.md) for common pitfalls to avoid.*
+*Next: See [15_Common_Mistakes.md](15_Common_Mistakes.md) for common pitfalls to avoid.*

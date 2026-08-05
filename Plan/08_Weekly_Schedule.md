@@ -11,7 +11,7 @@ The most common preparation mistake is studying randomly — picking topics base
 - **Revision happens before you forget** (not just at exam time)
 - **Energy is used efficiently** (hardest subjects when you're freshest)
 
-For a detailed daily breakdown of study hours, see [09_Daily_Study_Allocation.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/09_Daily_Study_Allocation.md).
+For a detailed daily breakdown of study hours, see [09_Daily_Study_Allocation.md](09_Daily_Study_Allocation.md).
 
 ---
 
@@ -140,4 +140,4 @@ The daily subject order (**QA → Reasoning → English → GA**) is designed ba
 
 ---
 
-*Next: See [09_Daily_Study_Allocation.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/09_Daily_Study_Allocation.md) for the daily hour-by-hour time split.*
+*Next: See [09_Daily_Study_Allocation.md](09_Daily_Study_Allocation.md) for the daily hour-by-hour time split.*

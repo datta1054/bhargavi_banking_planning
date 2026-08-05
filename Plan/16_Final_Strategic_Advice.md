@@ -110,7 +110,7 @@ You have the academic background (B.Com), you have the timeline (9 months), and 
 
 Begin today. The version of you that will enter the exam hall in 2027 starts with the choices you make today.
 
-*Good luck, Bhargavi. The banking sector awaits a dedicated, prepared, and passionate professional like you.*
+*Good luck on your preparation journey. The banking sector awaits a dedicated, prepared, and passionate professional like you.*
 
 ---
 
@@ -118,20 +118,20 @@ Begin today. The version of you that will enter the exam hall in 2027 starts wit
 
 | File Number | Document Name | Purpose |
 |-------------|---------------|---------|
-| [00_INDEX.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/00_INDEX.md) | Master File Index | Central directory of the blueprint |
-| [01_Executive_Summary.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/01_Executive_Summary.md) | Executive Summary & Philosophy | Blueprint overview and core guidelines |
-| [02_Exam_Analysis.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/02_Exam_Analysis.md) | Exam & Syllabus Analysis | Section weightage, overlaps, and cutoffs |
-| [03_Complete_Roadmap.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/03_Complete_Roadmap.md) | Complete Roadmap & Phases | Timeline phases and topic dependency flow |
-| [04_QA_Reasoning_English.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/04_QA_Reasoning_English.md) | Core Subjects Roadmap | Topic-wise strategy for QA, Reasoning, English |
-| [05_Computer_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/05_Computer_Awareness.md) | Computer Knowledge Roadmap | Syllabus and strategy for computer aptitude |
-| [06_GA_Banking_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/06_GA_Banking_Awareness.md) | General & Banking Awareness | Banking history, policy, and current affairs |
-| [07_Monthly_Plan.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/07_Monthly_Plan.md) | Month-by-Month Plan | Detailed monthly schedule (Aug 2026 – May 2027) |
-| [08_Weekly_Schedule.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/08_Weekly_Schedule.md) | Weekly Study Schedule | Timetables for each phase and exam weeks |
-| [09_Daily_Study_Allocation.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/09_Daily_Study_Allocation.md) | Daily Study Allocation | Daily study templates and hour breakdowns |
-| [10_Revision_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/10_Revision_Strategy.md) | Revision & Exam-Day Strategy | Spaced repetition, last 30 days, exam day |
-| [11_Practice_Mock_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/11_Practice_Mock_Strategy.md) | Practice & Mock Test Strategy | PYQ solving and 8-step mock analysis |
-| [12_Speed_Accuracy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/12_Speed_Accuracy.md) | Speed & Accuracy Improvement | Vedic math, speed drills, error tracking |
-| [13_Interview_Prep.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/13_Interview_Prep.md) | Interview Preparation Strategy | Panel structure, self-introduction, HR rounds |
-| [14_Metrics_Milestones.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/14_Metrics_Milestones.md) | Success Metrics & Milestones | Monthly checkpoints, targets, diagnostics |
-| [15_Common_Mistakes.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/15_Common_Mistakes.md) | Common Mistakes to Avoid | 20 core mistakes in planning, practice, focus |
-| [16_Final_Strategic_Advice.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/16_Final_Strategic_Advice.md) | Final Strategic Advice | Key lessons, reference resources, checklist |
+| [00_INDEX.md](00_INDEX.md) | Master File Index | Central directory of the blueprint |
+| [01_Executive_Summary.md](01_Executive_Summary.md) | Executive Summary & Philosophy | Blueprint overview and core guidelines |
+| [02_Exam_Analysis.md](02_Exam_Analysis.md) | Exam & Syllabus Analysis | Section weightage, overlaps, and cutoffs |
+| [03_Complete_Roadmap.md](03_Complete_Roadmap.md) | Complete Roadmap & Phases | Timeline phases and topic dependency flow |
+| [04_QA_Reasoning_English.md](04_QA_Reasoning_English.md) | Core Subjects Roadmap | Topic-wise strategy for QA, Reasoning, English |
+| [05_Computer_Awareness.md](05_Computer_Awareness.md) | Computer Knowledge Roadmap | Syllabus and strategy for computer aptitude |
+| [06_GA_Banking_Awareness.md](06_GA_Banking_Awareness.md) | General & Banking Awareness | Banking history, policy, and current affairs |
+| [07_Monthly_Plan.md](07_Monthly_Plan.md) | Month-by-Month Plan | Detailed monthly schedule (Aug 2026 – May 2027) |
+| [08_Weekly_Schedule.md](08_Weekly_Schedule.md) | Weekly Study Schedule | Timetables for each phase and exam weeks |
+| [09_Daily_Study_Allocation.md](09_Daily_Study_Allocation.md) | Daily Study Allocation | Daily study templates and hour breakdowns |
+| [10_Revision_Strategy.md](10_Revision_Strategy.md) | Revision & Exam-Day Strategy | Spaced repetition, last 30 days, exam day |
+| [11_Practice_Mock_Strategy.md](11_Practice_Mock_Strategy.md) | Practice & Mock Test Strategy | PYQ solving and 8-step mock analysis |
+| [12_Speed_Accuracy.md](12_Speed_Accuracy.md) | Speed & Accuracy Improvement | Vedic math, speed drills, error tracking |
+| [13_Interview_Prep.md](13_Interview_Prep.md) | Interview Preparation Strategy | Panel structure, self-introduction, HR rounds |
+| [14_Metrics_Milestones.md](14_Metrics_Milestones.md) | Success Metrics & Milestones | Monthly checkpoints, targets, diagnostics |
+| [15_Common_Mistakes.md](15_Common_Mistakes.md) | Common Mistakes to Avoid | 20 core mistakes in planning, practice, focus |
+| [16_Final_Strategic_Advice.md](16_Final_Strategic_Advice.md) | Final Strategic Advice | Key lessons, reference resources, checklist |

@@ -327,4 +327,4 @@ Before any Mains exam, verify you can answer:
 
 ---
 
-*Next: See [06_GA_Banking_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/06_GA_Banking_Awareness.md) for General Awareness & Banking Awareness strategy.*
+*Next: See [06_GA_Banking_Awareness.md](06_GA_Banking_Awareness.md) for General Awareness & Banking Awareness strategy.*

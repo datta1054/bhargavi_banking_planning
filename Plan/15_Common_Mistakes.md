@@ -31,7 +31,7 @@ Below are the 20 most common errors banking aspirants make, categorized so you c
 > *"Fractions and basic percentage are too easy. I will jump straight to advanced Data Interpretation."*
 
 * **What happens:** Advanced DI sets require rapid calculation of percentages, ratios, and averages. Without these fundamentals, you will be slow and frustrated.
-* **The fix:** Respect the learning sequence in [03_Complete_Roadmap.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/03_Complete_Roadmap.md). Lay the foundation before building the walls.
+* **The fix:** Respect the learning sequence in [03_Complete_Roadmap.md](03_Complete_Roadmap.md). Lay the foundation before building the walls.
 
 ---
 
@@ -91,7 +91,7 @@ Below are the 20 most common errors banking aspirants make, categorized so you c
 > *"I took 30 mock tests, but my score is not improving."*
 
 * **What happens:** Taking mock tests only measures your level; it does not improve it. Without analysis, you are repeating your mistakes at speed.
-* **The fix:** Apply the 8-step mock analysis framework in [11_Practice_Mock_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/11_Practice_Mock_Strategy.md). Spend at least 60–75 minutes analyzing every mock test.
+* **The fix:** Apply the 8-step mock analysis framework in [11_Practice_Mock_Strategy.md](11_Practice_Mock_Strategy.md). Spend at least 60–75 minutes analyzing every mock test.
 
 ---
 
@@ -141,7 +141,7 @@ Below are the 20 most common errors banking aspirants make, categorized so you c
 > *"I have 4 different books for QA and subscribed to 3 Telegram channels."*
 
 * **What happens:** Analysis paralysis. You spend more time deciding what to study than actually studying.
-* **The fix:** Choose **one** standard book per subject (see resource list in [16_Final_Strategic_Advice.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/16_Final_Strategic_Advice.md)) and complete it from cover to cover.
+* **The fix:** Choose **one** standard book per subject (see resource list in [16_Final_Strategic_Advice.md](16_Final_Strategic_Advice.md)) and complete it from cover to cover.
 
 ---
 
@@ -151,7 +151,7 @@ Below are the 20 most common errors banking aspirants make, categorized so you c
 > *"My friend is already scoring 70 in mocks, while I am still struggling at 45."*
 
 * **What happens:** Unnecessary anxiety that slows down your own learning and leads to poor decision-making.
-* **The fix:** Your only benchmark is your own yesterday self. Check your monthly milestones in [14_Metrics_Milestones.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/14_Metrics_Milestones.md) and focus on your personal trajectory.
+* **The fix:** Your only benchmark is your own yesterday self. Check your monthly milestones in [14_Metrics_Milestones.md](14_Metrics_Milestones.md) and focus on your personal trajectory.
 
 ---
 
@@ -179,4 +179,4 @@ Below are the 20 most common errors banking aspirants make, categorized so you c
 
 ---
 
-*Next: See [16_Final_Strategic_Advice.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/16_Final_Strategic_Advice.md) for resources, final checklist, and strategic guidance.*
+*Next: See [16_Final_Strategic_Advice.md](16_Final_Strategic_Advice.md) for resources, final checklist, and strategic guidance.*

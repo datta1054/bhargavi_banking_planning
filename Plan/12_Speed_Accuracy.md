@@ -267,7 +267,7 @@ Similar question type to practice: _______________
 
 Review your error notebook **every Saturday** for 20 minutes.
 
-### The 4-Type Error Classification (from [11_Practice_Mock_Strategy.md#11.6](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/11_Practice_Mock_Strategy.md#11.6) expanded)
+### The 4-Type Error Classification (from [11_Practice_Mock_Strategy.md#11.6](11_Practice_Mock_Strategy.md#11.6) expanded)
 
 **Type 1 — Conceptual Errors (most serious)**
 - Action: Revisit the concept, understand from scratch, solve 10 more questions of that type
@@ -336,4 +336,4 @@ Speed in the exam is not just technical — it's psychological. Anxiety slows do
 
 ---
 
-*Next: See [10_Revision_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/10_Revision_Strategy.md) for spaced repetition and revision plans.*
+*Next: See [10_Revision_Strategy.md](10_Revision_Strategy.md) for spaced repetition and revision plans.*

@@ -329,4 +329,4 @@ Banking prelims exams have sectional time limits. You **cannot** attempt every q
 
 ---
 
-*Next: See [12_Speed_Accuracy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/12_Speed_Accuracy.md) for speed and accuracy improvement.*
+*Next: See [12_Speed_Accuracy.md](12_Speed_Accuracy.md) for speed and accuracy improvement.*

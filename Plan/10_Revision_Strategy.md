@@ -199,7 +199,7 @@ This is the most critical 30 days. **No new topics.** Only consolidation and per
 
 **During the exam:**
 1. **Start with your strongest section** (to build confidence and secure early marks)
-2. **Do NOT attempt in serial order** — use the 3-round strategy (see [11_Practice_Mock_Strategy.md#7.7](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/11_Practice_Mock_Strategy.md#7.7))
+2. **Do NOT attempt in serial order** — use the 3-round strategy (see [11_Practice_Mock_Strategy.md#11.7](11_Practice_Mock_Strategy.md#11.7))
 3. **Watch the time every 5 minutes** — glance at timer, stay aware
 4. **If stuck on a question for 2+ minutes:** SKIP — move on. Return only if time permits.
 5. **Never leave a section incomplete** due to obsessing over hard questions
@@ -232,7 +232,7 @@ Banking exam results take 4–6 weeks. During this wait:
 ### If You Clear Prelims
 
 Immediately shift to:
-- Mains preparation mode (see [07_Monthly_Plan.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/07_Monthly_Plan.md) — Month 7–8)
+- Mains preparation mode (see [07_Monthly_Plan.md](07_Monthly_Plan.md) — Month 7–8)
 - More complex DI, Data Analysis, Computer Aptitude
 - Descriptive writing (essay + letter) practice
 - Banking awareness depth increase
@@ -259,4 +259,4 @@ Immediately shift to:
 
 ---
 
-*Next: See [11_Practice_Mock_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/11_Practice_Mock_Strategy.md) for the practice and mock strategy.*
+*Next: See [11_Practice_Mock_Strategy.md](11_Practice_Mock_Strategy.md) for the practice and mock strategy.*

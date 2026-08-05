@@ -1,5 +1,5 @@
 # 01 · Executive Summary & Preparation Philosophy
-### Bhargavi's Banking Exam Blueprint | August 2026 – May 2027
+### Comprehensive Banking Exam Blueprint | August 2026 – May 2027
 
 ---
 
@@ -175,4 +175,4 @@ Before beginning, internalize these commitments:
 
 ---
 
-*Next: See `02_Exam_Analysis.md` for a complete breakdown of every target examination, its pattern, syllabus, and cutoff trends.*
+*Next: See [02_Exam_Analysis.md](02_Exam_Analysis.md) for a complete breakdown of every target examination, its pattern, syllabus, and cutoff trends.*

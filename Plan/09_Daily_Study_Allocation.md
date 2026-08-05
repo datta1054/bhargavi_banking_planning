@@ -286,4 +286,4 @@ Review this log every Saturday during your review session.
 
 ---
 
-*Next: See [10_Revision_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/10_Revision_Strategy.md) for spaced repetition and revision plans.*
+*Next: See [10_Revision_Strategy.md](10_Revision_Strategy.md) for spaced repetition and revision plans.*

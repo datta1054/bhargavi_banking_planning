@@ -521,5 +521,5 @@ Since you are targeting Karnataka Bank, add these to your preparation:
 
 ---
 
-*See [04_QA_Reasoning_English.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/04_QA_Reasoning_English.md) for QA, Reasoning, and English strategies.*  
-*See [05_Computer_Awareness.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/05_Computer_Awareness.md) for Computer Knowledge strategy.*
+*See [04_QA_Reasoning_English.md](04_QA_Reasoning_English.md) for QA, Reasoning, and English strategies.*  
+*See [05_Computer_Awareness.md](05_Computer_Awareness.md) for Computer Knowledge strategy.*

@@ -60,7 +60,7 @@ The "Tell me about yourself" question is the **most important 2 minutes of your 
 
 **Example (Customize to your situation):**
 
-> "Good morning/afternoon. My name is Bhargavi, and I am from [City]. I have recently completed my Bachelor of Commerce from [College Name], which gave me a strong foundation in financial principles, accounting, and economics.
+> "Good morning/afternoon. My name is [Your Name], and I am from [City]. I have recently completed my Bachelor of Commerce from [College Name], which gave me a strong foundation in financial principles, accounting, and economics.
 >
 > I have always been fascinated by the banking sector because of its direct impact on economic development and financial inclusion. The opportunity to serve customers, manage financial transactions, and contribute to India's growth makes banking a deeply purposeful career for me.
 >
@@ -269,4 +269,4 @@ Karnataka Bank conducts personal interviews for PO positions. Additional prepara
 
 ---
 
-*Next: See [14_Metrics_Milestones.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/14_Metrics_Milestones.md) for monthly success benchmarks.*
+*Next: See [14_Metrics_Milestones.md](14_Metrics_Milestones.md) for monthly success benchmarks.*

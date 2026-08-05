@@ -268,35 +268,25 @@ This is the **master syllabus** — everything you study here serves multiple ex
 
 ---
 
-## 2.8 Exam Differentiators — What Makes Each Exam Unique
+### 2.8.1 Karnataka Bank PO / Clerk Special Breakdown
 
-```
-┌────────────────┬───────────────────────────────────────────────┐
-│ IBPS PO        │ + Descriptive writing (Essay + Letter)        │
-│                │ + Data Analysis (not just DI)                 │
-│                │ + Interview (40% weightage in final)          │
-│                │ + Higher difficulty in Mains                  │
-├────────────────┼───────────────────────────────────────────────┤
-│ IBPS Clerk     │ + No interview                                │
-│                │ + Computer Aptitude combined with Reasoning   │
-│                │ + Easier than PO overall                      │
-├────────────────┼───────────────────────────────────────────────┤
-│ IBPS RRB PO    │ + No English in Prelims                       │
-│                │ + Rural bank posting                          │
-│                │ + Hindi language option available             │
-│                │ + Slightly lower cutoffs                      │
-├────────────────┼───────────────────────────────────────────────┤
-│ IBPS RRB Clerk │ + No English in Prelims                       │
-│                │ + No Interview                                │
-│                │ + Rural bank posting                          │
-│                │ + Easiest entry-level banking exam            │
-├────────────────┼───────────────────────────────────────────────┤
-│ Karnataka Bank │ + Karnataka-specific GK                       │
-│                │ + Single-stage exam (no Prelims-Mains split)  │
-│                │ + Personal Interview for PO                   │
-│                │ + Direct bank (not through IBPS)              │
-└────────────────┴───────────────────────────────────────────────┘
-```
+Unlike IBPS exams that follow a Prelims → Mains multi-stage structure, private sector recruitment exams like **Karnataka Bank PO / Clerk** typically follow a streamlined pattern:
+
+| Section | Questions | Marks | Duration | Focus Area |
+|---------|-----------|-------|----------|------------|
+| Reasoning Ability | 40 | 40 | 30 min | Puzzles, Seating Arrangement, Coding-Decoding |
+| English Language | 40 | 40 | 30 min | RC, Error Detection, Vocabulary |
+| Computer Knowledge | 40 | 20 | 15 min | MS Office, Hardware, Internet, Networking |
+| General Awareness (w/ Banking focus) | 40 | 40 | 20 min | Banking Awareness, Reserve Bank, Local/Karnataka Economy |
+| Quantitative Aptitude | 40 | 40 | 30 min | Speed Math, DI, Arithmetic |
+| **Total** | **200** | **180** | **125 min** | **Single Stage Online Test → Personal Interview** |
+
+> 📌 **Key Advantage:** Preparing for IBPS Mains automatically prepares you 100% for Karnataka Bank and similar private bank exams.
+
+### 2.8.2 IBPS RRB Regional Language & Medium Rules
+
+- **Prelims & Mains Medium:** Questions appear in English AND the official Regional Language of the State applied (e.g., Kannada, Telugu, Tamil, Marathi, Gujarati, Hindi).
+- **Mains Language Choice:** In RRB Mains, candidates have the choice between **English Language** or **Hindi Language**. While this blueprint targets English, candidates fluent in Hindi have the flexibility to select Hindi for RRB exams.
 
 ---
 
@@ -351,4 +341,4 @@ PRIORITY 5: IBPS PO (Most competitive, highest reward)
 
 ---
 
-*Next: See `03_Complete_Roadmap.md` for the phase-by-phase preparation journey.*
+*Next: See [03_Complete_Roadmap.md](03_Complete_Roadmap.md) for the phase-by-phase preparation journey.*

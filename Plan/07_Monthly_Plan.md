@@ -183,6 +183,8 @@
 **Phase:** 2 — Concept Strengthening  
 **Theme:** "Data Interpretation + Complex Topics + Computer Knowledge"
 
+> 🎓 **B.Com 5th Sem Exam Buffer:** If university exams fall in Nov/Dec, activate "Light Mode": reduce banking prep to 1 hour/day (focusing on daily GA reading + 1 RC passage) during exam days. Resume full schedule immediately after finals.
+
 ### Month 4 Focus Areas
 - **Data Interpretation** — most important addition this month
 - Computer Knowledge (can be completed in 3 weeks)
@@ -279,7 +281,7 @@
 - **Take your first 2 full-length mock tests**
 - **Mock 1:** Attempt without any preparation — see your baseline score
 - **Mock 2:** After analyzing Mock 1, attempt again with improvements
-- Start mock test analysis (see [11_Practice_Mock_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/11_Practice_Mock_Strategy.md))
+- Start mock test analysis (see [11_Practice_Mock_Strategy.md](11_Practice_Mock_Strategy.md))
 
 ### Month 6 End Checkpoint
 - Complete at least 2 full mock tests
@@ -340,6 +342,8 @@
 **Phase:** 4 — Final Revision & Exam Readiness  
 **Theme:** "Peak Performance and Exam Simulation"
 
+> 🎓 **B.Com 6th Sem Final Exam Buffer:** University graduation exams usually take place in April/May. Maintain 1 mock test per week + daily GA reading during exam days to maintain peak speed while securing your degree.
+
 ### Month 9 Plan
 - 2 mock tests per week (only Prelims pattern — for speed maintenance)
 - Complete remaining PYQ papers
@@ -355,7 +359,7 @@
 **Theme:** "Consolidation and Confidence"
 
 ### Last 30 Days (April 15 – May 15)
-*(Detailed in [10_Revision_Strategy.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/10_Revision_Strategy.md))*
+*(Detailed in [10_Revision_Strategy.md](10_Revision_Strategy.md))*
 
 - **Week 1:** Full subject revision (QA → Reasoning → English)
 - **Week 2:** GA comprehensive revision (CA capsule + static GK)
@@ -373,4 +377,4 @@
 
 ---
 
-*Next: See [08_Weekly_Schedule.md](file:///c:/Users/gadde/Desktop/Bhargavi/bhargavi_banking_planning/Plan/08_Weekly_Schedule.md) for weekly study templates.*
+*Next: See [08_Weekly_Schedule.md](08_Weekly_Schedule.md) for weekly study templates.*
