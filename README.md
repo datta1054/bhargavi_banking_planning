@@ -41,6 +41,8 @@ All preparation modules are located in the [`Plan/`](Plan/00_INDEX.md) directory
 | [Plan/14_Metrics_Milestones.md](Plan/14_Metrics_Milestones.md) | Monthly progress tracking templates & self-assessment checkpoints |
 | [Plan/15_Common_Mistakes.md](Plan/15_Common_Mistakes.md) | 20 preparation pitfalls to avoid |
 | [Plan/16_Final_Strategic_Advice.md](Plan/16_Final_Strategic_Advice.md) | Recommended books, online resources & final checklist |
+| [Plan/self-assessment/weekly/](Plan/self-assessment/weekly) | **36 Weekly Self-Assessment Checklists** (`week_01_aug2026.md` to `week_36_may2027.md`) |
+| [Plan/self-assessment/monthly/](Plan/self-assessment/monthly) | **10 Monthly Self-Assessment Reviews** (`month_01_aug2026.md` to `month_10_may2027.md`) |
 
 ---
 
@@ -49,4 +51,5 @@ All preparation modules are located in the [`Plan/`](Plan/00_INDEX.md) directory
 1. Start by reading [Plan/00_INDEX.md](Plan/00_INDEX.md) and [Plan/01_Executive_Summary.md](Plan/01_Executive_Summary.md).
 2. Understand exam patterns and cutoffs in [Plan/02_Exam_Analysis.md](Plan/02_Exam_Analysis.md).
 3. Follow the monthly targets in [Plan/07_Monthly_Plan.md](Plan/07_Monthly_Plan.md) and weekly routines in [Plan/08_Weekly_Schedule.md](Plan/08_Weekly_Schedule.md).
-4. Track progress at the end of every month using [Plan/14_Metrics_Milestones.md](Plan/14_Metrics_Milestones.md).
+4. Track weekly progress dynamically using the checklists in [Plan/self-assessment/weekly/](Plan/self-assessment/weekly).
+5. At the end of every month, fill out the comprehensive review templates in [Plan/self-assessment/monthly/](Plan/self-assessment/monthly) along with [Plan/14_Metrics_Milestones.md](Plan/14_Metrics_Milestones.md) to log scores and weak topics.
