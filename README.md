@@ -2,6 +2,38 @@
 
 A comprehensive, practical, and highly detailed preparation blueprint designed for a final-year B.Com student preparing for multiple competitive banking examinations in India.
 
+
+---
+
+## ⚠️ **CRITICAL: Weekly Self-Assessment Tracking**
+
+🔗 **MUST follow the weekly self-assessment checklists** located in [`Plan/self-assessment/weekly/`](Plan/self-assessment/weekly).
+
+- **36 weekly checklists** correspond to each week of your preparation (Aug 2026 – May 2027).
+- Each week's checklist includes:
+  - Daily tasks breakdown across all subjects (QA, Reasoning, English, GA/Banking)
+  - Weekly deliverables and concept self-checks
+  - Performance metrics form to track study hours, problems solved, and consistency
+  - Weekly reflections and action plan for the next week
+
+### 📖 How to Use Weekly Checklists:
+1. **At the START of each week**: Open the corresponding `week_XX_month_year.md` file.
+2. **Each day**: Check off daily tasks as you complete them (Mon–Fri core study, Sat revision, Sun rest).
+3. **End of week**: Fill in the Weekly Performance Metrics Form with actual data (study hours, problems solved, test scores).
+4. **Every Saturday**: Complete the Week 1/2/3/etc. **Checkpoint Self-Test** linked at the bottom of each weekly file.
+5. **Next week reflection**: Use "Weekly Reflections & Action Plan" to adjust your focus for Week N+1.
+
+### 🎯 Why This Matters:
+- **Consistency tracking** ensures you stay on pace with the 9-month plan.
+- **Daily accountability** prevents topic gaps and confusion.
+- **Checkpoint tests** validate your learning and identify weak areas early.
+- **Performance metrics** help you course-correct immediately (not at month-end).
+
+**Do NOT skip this step.** The weekly self-assessments are your direct link between the master plan and actual daily execution.
+
+---
+---
+
 ## 🎯 Target Examinations
 * **IBPS PO** (Probationary Officer)
 * **IBPS Clerk** (Office Assistant)
