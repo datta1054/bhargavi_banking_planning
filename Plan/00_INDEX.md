@@ -30,6 +30,8 @@
 | [14_Metrics_Milestones.md](14_Metrics_Milestones.md) | Metrics & Checkpoints | Monthly benchmarks and self-assessment tests |
 | [15_Common_Mistakes.md](15_Common_Mistakes.md) | Common Mistakes to Avoid | 20 preparation pitfalls to recognize and avoid |
 | [16_Final_Strategic_Advice.md](16_Final_Strategic_Advice.md) | Final Strategic Advice | Recommended books, online resources, final advice |
+| [17_Question_Bank_Weeks_01-09_Questions.md](17_Question_Bank_Weeks_01-09_Questions.md) | Weeks 01–09 Questions | 60 topic-based questions across four difficulty levels |
+| [18_Question_Bank_Weeks_01-09_Answers.md](18_Question_Bank_Weeks_01-09_Answers.md) | Weeks 01–09 Answer Key | Answers matched to the numbered question bank |
 
 ---
 
